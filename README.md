@@ -1,6 +1,6 @@
 #Bar Code Generator
 
-A short and concise python program to generated code 39 barcodes. The program is designed to be run from the command line.
+A short and concise python program for generating numeric code 39 barcodes. The program is designed to be run from the command line.
 Running the program from the terminal, two arguments are accepted. The lowest number bar code to be created and the highest
 number barcode to be created. An example of how it would be run in the terminal would look like:
 
